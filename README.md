@@ -24,7 +24,7 @@ Installation
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/n8n-agent-gmail-automation.git
+git clone (https://github.com/Zaidzayn/n8n_agent)
 cd n8n-agent-gmail-automation
 Set up n8n with your environment:
 
